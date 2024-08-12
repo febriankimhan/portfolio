@@ -1,5 +1,9 @@
 # Febrian Dwi Kimhan
 
+<div style="text-align: center;">
+    <img src="images/headshot.jpg" alt="Profile Picture" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+</div>
+
 Hi, I'm **Bian**, a future data scientist or AI/ML engineer passionate about creating comprehensive models to solve real-world problems. I have a strong background in data analysis, mathematics, and machine learning. I believe that data is a key component to uncover solutions to all complex problems.
 
 ## Education
